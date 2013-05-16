@@ -1,0 +1,16 @@
+div#nav li{
+        color:#565656;
+        position:relative;
+        list-style:none;
+        margin:0px auto;
+        float:left;
+        line-height:1.74em;
+        border:1px solid #FFFFFF;
+        text-align:left;
+        display:block;
+        padding:0.25em 0.25em 0.25em 0.5em;
+        text-decoration:none;
+        /*background-color:#F5F5F5;*/
+        background-color:#DFDFDF;
+        font-size:100%;
+}
